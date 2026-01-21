@@ -1,0 +1,45 @@
+ .logo {
+  width: auto; 
+  height: 100px;
+ 
+}
+.navbar {
+  background-color: #f8f8f8;
+  padding: 10px 0;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+h1 { font-size: 32px;
+    font-family: sans-serif;
+  color: black;
+  text-align: center;
+}
+nav {
+  color: #333;
+  margin: 0 15px;
+  font-size: 18px;
+  border: 2px black;
+
+
+}
+
+p {
+  font-size: 18px;
+  color: #444;
+ text-align: end;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
